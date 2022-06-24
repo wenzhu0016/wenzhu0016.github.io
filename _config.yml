@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computational Learning"
+title                    : "Silicon PV"
 title_separator          : "-"
-name                     : &name "Junxiao Xue"
+name                     : &name "Wenzhu Liu"
 description              : &description "personal description" 
-url                      : https://xuejx7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wenzhu0016.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuejx7/xuejx7.github.io"
+repository               : "wenzhu0016/wenzhu0016.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junxiao Xue"
+  name             : "Wenzhu Liu"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Zhengzhou University"
+  bio              : "Associate Research Fellow, Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences"
   location         : "Zhengzhou"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Za9YFVIAAAAJ&hl=zh-CN"
-  email            : "xuejx@zzu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=LMff2cIAAAAJ&hl=zh-CN"
+  email            : "wenzhu.liu@mail.sim.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xuejx7"
+  github           : "wenzhu0016"
   google_plus      :
   keybase          :
   instagram        :
