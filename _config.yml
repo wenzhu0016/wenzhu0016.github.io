@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Silicon PV"
+title                    : "Computational Learning"
 title_separator          : "-"
-name                     : &name "Wenzhu Liu"
+name                     : &name "Your Name"
 description              : &description "personal description" 
-url                      : https://WenzhuLiu006.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shibo2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WenzhuLiu006/WenzhuLiu006.github.io"
+repository               : "shibo2/shibo2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenzhu Liu"
+  name             : "Junxiao Xue"
   avatar           : "profile.png"
-  bio              : "Associate Research Fellow, Chinese Academy of Sciences"
-  location         : "Shanghai"
+  bio              : "Associate Professor, Zhengzhou University"
+  location         : "Zhengzhou"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=LMff2cIAAAAJ&hl=zh-CN"
-  email            : "wenzhu.liu@mail.sim.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=Za9YFVIAAAAJ&hl=zh-CN"
+  email            : "xuejx@zzu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WenzhuLiu006"
+  github           : "xuejx7"
   google_plus      :
   keybase          :
   instagram        :
